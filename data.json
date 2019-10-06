@@ -1,4 +1,4 @@
-{"scales":[
+{"keys":[
   {"c":[
     {"major":[
       {"cdur": "Tonic"},
@@ -8,4 +8,14 @@
       {"cminor": "Tonic"},
     ]},
   ]}
+  {"c#":[
+    {"major":[
+      {"cdur": "Tonic"},
+      {"fdur": "dominant"},
+    ]},
+    {"minor":[
+      {"cminor": "Tonic"},
+    ]},
+  ]}
+
 ]}
