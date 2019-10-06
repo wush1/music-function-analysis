@@ -1,0 +1,11 @@
+{"scales":[
+  {"c":[
+    {"major":[
+      {"cdur": "Tonic"},
+      {"fdur": "dominant"},
+    ]},
+    {"minor":[
+      {"cminor": "Tonic"},
+    ]},
+  ]}
+]}
